@@ -2,6 +2,10 @@ package saturday;
 
 public class DemoSaturday {
 	
+	int a = 10;
+	int b = 20;
+	
+	
 	 public static void addNum (int a, int b) {
 		 System.out.println(a+b);
 		 
